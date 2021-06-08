@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+
+baseurl: "/"
+name: name of my website
+description: This website is a personal webpage of Prof. Jicheng Hu @ Wuhan University

@@ -19,7 +19,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## 3D AI
 
 
-## Industry AI
+## [Industry AI](industry-ai/industry-ai.md)
 
 
 ## AI Theory
