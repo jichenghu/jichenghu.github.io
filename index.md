@@ -14,16 +14,33 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [^_^]:
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+```shell
+    $ bundle exec jekyll serve
+```
 *****************************
 
-## 3D AI
+## 1 3D AI
 
 
-## [Industry AI](industry-ai/industry-ai.md)
+## 2 [Industry AI](industry-ai/industry-ai.md)
 
 
-## AI Theory
+## 3 AI Theory
 
 
-## Printed Electronics
+## 4 Printed Electronics
+
+
+## 5 Teaching Courses
+
+### 5.1 Computer Networking
+
+Course teaching closed, on track of final examination, scheduled at June 24, 2021.
+
+### 5.2 Principle of Windows and Its Applications
+
+[website github](https://github.com/principleWindows)
+
+[website gitee](https://gitee.com/principlewindows)
+
 
